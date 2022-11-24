@@ -1,4 +1,4 @@
-const JSONlink = "http://localhost:3000";
+const JSONlink = "https://bexzy.github.io/back_Inidvidual_JaP/database/database.json";
 let data = await getJSON(JSONlink);
 
 async function getJSON(link) {
