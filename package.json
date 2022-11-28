@@ -1,13 +1,21 @@
 {
-  "name": "ej2",
+  "name": "back_inidvidual_jap",
   "version": "1.0.0",
-  "description": "",
+  "description": "Backend JaP Individual",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bexzy/back_Inidvidual_JaP.git"
+  },
+  "author": "Bruno Pastorino",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bexzy/back_Inidvidual_JaP/issues"
+  },
+  "homepage": "https://github.com/Bexzy/back_Inidvidual_JaP#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.18.2"
